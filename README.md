@@ -18,8 +18,9 @@
 <a><img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/></a>
 
+<br>
   
-### 💻 The skill I'm learning
+### ✏️ The skill I'm learning
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=white"/></a>
