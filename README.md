@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/eunsugim815@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/>
-
+<a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new
+"><img src="https://img.shields.io/badge/eunsugim815@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/><a/>
+<a href="https://agsu.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/><a/>
 
 <!--
 **ag-su/ag-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
