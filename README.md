@@ -3,10 +3,15 @@
 <a href="https://agsu.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/><a/>
 <a href="https://ag-su.github.io/myblog"><img src="https://img.shields.io/badge/Data Blog-EA4AAA?style=plastic&logo=GitHub Sponsors&logoColor=white"/><a/>
   
+ 
+<br> 
   
   
-# 🛠️ Skills 
+## 🛠️ Skills 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Pyhon&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
   
   
 <!--
