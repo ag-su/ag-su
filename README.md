@@ -15,6 +15,9 @@
 <a><img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/></a>
+
 
   
   
