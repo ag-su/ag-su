@@ -4,6 +4,11 @@
 <a href="https://ag-su.github.io/myblog"><img src="https://img.shields.io/badge/Data Blog-EA4AAA?style=plastic&logo=GitHub Sponsors&logoColor=white"/><a/>
   
   
+  
+# 🛠️ Skills 
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Pyhon&logoColor=white"/>
+  
+  
 <!--
 **ag-su/ag-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
