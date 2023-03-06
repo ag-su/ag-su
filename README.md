@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=e&logoColor=white"/>
+<img src="https://img.shields.io/badge/eunsugim815@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!--
 **ag-su/ag-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
