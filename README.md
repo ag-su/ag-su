@@ -18,12 +18,12 @@
   
 ## 🛠️ Skills 
 #### main
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Pyhon&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Pyhon&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
 
 #### sub
