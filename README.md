@@ -3,7 +3,7 @@
 
 <br> 
 
-
+-----
 ## 💌 sns
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new
 "><img src="https://img.shields.io/badge/eunsugim815@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/>
@@ -15,7 +15,7 @@
  
 <br> 
   
-  
+----- 
 ## 🛠️ Skills 
 #### main
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Pyhon&logoColor=white"/></a>
