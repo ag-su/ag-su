@@ -27,6 +27,7 @@
 
 
 #### sub
+<a><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a> 
