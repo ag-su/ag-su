@@ -6,7 +6,7 @@
 -----
 ## 💌 sns
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new
-"><img src="https://img.shields.io/badge/eunsugim815@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><a/>
+"><img src="https://img.shields.io/badge/eunsugim815@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/><a/>
 <a href="https://agsu.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Tistory&logoColor=white"/><a/>
 <a href="https://ag-su.github.io/blog/"><img src="https://img.shields.io/badge/Data Blog-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/><a/>
 
